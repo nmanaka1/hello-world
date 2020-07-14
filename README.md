@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+こんにちは！
+お腹がすきました。お寿司が食べたいです！
+
